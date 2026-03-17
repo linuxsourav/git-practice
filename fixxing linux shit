@@ -42,3 +42,14 @@ Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
 Setting up gnome-session (46.0-1ubuntu4) ...
 Setting up ubuntu-desktop (1.539.2) ...
 Error: Timeout was reached
+
+
+
+
+
+#checking about ubuntu-desktop
+
+dpkg -l | grep ubuntu-desktop
+ii  ubuntu-desktop                                1.539.2                                  amd64        Ubuntu desktop system
+ii  ubuntu-desktop-minimal                        1.539.2                                  amd64        Ubuntu desktop minimal system
+
