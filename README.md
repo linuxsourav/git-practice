@@ -33,3 +33,8 @@ Mar 17 18:01:38 sourav-HP-Notebook gdm-password][24483]: gkr-pam: unable to loca
 Mar 17 18:01:38 sourav-HP-Notebook gdm-password][24483]: gkr-pam: stashed password to try later in open session
 Mar 17 18:01:38 sourav-HP-Notebook gdm-password][24483]: pam_unix(gdm-password:session): session opened for user sourav(uid=1000) by s>
 Mar 17 18:01:38 sourav-HP-Notebook gdm-password][24483]: gkr-pam: unlocked login keyring
+
+
+#issue resolving
+
+sudo apt install ubuntu-desktop gnome-shell gnome-session --reinstall
